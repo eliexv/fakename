@@ -1,21 +1,21 @@
-# Name Generator
+# A Name Generator
 
 Generate random names directly from your terminal.
 
 ## Installation
-`$ npm i -g fakename`
+`$ npm i -g grabname`
 
 ## Usage
 
-`$ fakename [count] [--type | -t]`
+`$ grabname [count] [--type | -t]`
 
 *(Order of arguments and options does **NOT** matter)*
 
-For example, running `$ fakename 10 -f` generates 10 female firstnames.
+For example, running `$ grabname 10 -f` generates 10 female firstnames.
 
 ## Current Support
 
-For now, `fakename` only supports firstnames and female and male names (you might also encounter unisex names within both).
+For now, `grabname` only supports firstnames and female and male names (you might also encounter unisex names within both).
 
 ## Docs
 

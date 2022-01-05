@@ -43,7 +43,7 @@ const argv = yargs(hideBin(process.argv))
 		else return true
 	})
 	.strictOptions()
-	.usage('fakename [count] [--type | -t]')
+	.usage('grabname [count] [--type | -t]')
 	.parse()
 //
 

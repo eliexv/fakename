@@ -1,5 +1,5 @@
 {
-	"name": "fakename",
+	"name": "grabname",
 	"version": "1.0.0",
 	"description": "A (fake) name generator.",
 	"main": "cli.js",
@@ -8,16 +8,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/eliexv/fakename.git"
+		"url": "git+https://github.com/eliexv/grabname.git"
 	},
 	"author": "Elie",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/eliexv/fakename/issues"
+		"url": "https://github.com/eliexv/grabname/issues"
 	},
-	"homepage": "https://github.com/eliexv/fakename#readme",
+	"homepage": "https://github.com/eliexv/grabname#readme",
 	"bin": {
-		"fakename": "./cli.js"
+		"grabname": "./cli.js"
 	},
 	"dependencies": {
 		"colors": "^1.4.0",
@@ -27,13 +27,13 @@
     "fake",
     "random",
     "generator",
-		"fakename",
+		"grabname",
 		"fake name",
-		"fakenamegen",
-		"fakenamegenerator",
+		"grabnamegen",
+		"grabnamegenerator",
 		"fake name gen",
-		"fakename gen",
-		"fakename generator",
+		"grabname gen",
+		"grabname generator",
 		"fake name generator",
 		"name generator",
 		"first name generator",
