@@ -1,0 +1,52 @@
+{
+	"name": "fakename",
+	"version": "1.0.0",
+	"description": "A (fake) name generator.",
+	"main": "cli.js",
+	"scripts": {
+		"test": "exit 0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/eliexv/fakename.git"
+	},
+	"author": "Elie",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/eliexv/fakename/issues"
+	},
+	"homepage": "https://github.com/eliexv/fakename#readme",
+	"bin": {
+		"fakename": "./cli.js"
+	},
+	"dependencies": {
+		"colors": "^1.4.0",
+		"yargs": "^17.3.1"
+	},
+	"keywords": [
+    "fake",
+    "random",
+    "generator",
+		"fakename",
+		"fake name",
+		"fakenamegen",
+		"fakenamegenerator",
+		"fake name gen",
+		"fakename gen",
+		"fakename generator",
+		"fake name generator",
+		"name generator",
+		"first name generator",
+		"firstname",
+		"namegen",
+    "randomname",
+    "random name",
+    "randomnamegen",
+    "randomnamegenerator",
+    "random name gen",
+    "random name generator"
+	],
+	"files": [
+		"lists"
+	]
+}
